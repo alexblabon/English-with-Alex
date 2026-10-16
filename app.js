@@ -1,0 +1,1 @@
+function check(id,a){let v=document.getElementById(id).value.toLowerCase();document.getElementById(id+"r").innerHTML=v==a?"✅":"❌";}
